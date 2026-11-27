@@ -7,15 +7,15 @@
 **La herramienta todo-en-uno para capturar pantalla, anotar, extraer texto de imágenes (OCR), escanear códigos QR, capturar páginas largas con scroll, grabar video/GIF y crear informes en PDF en segundos.**
 
 [![Última Versión](https://img.shields.io/github/v/release/velascofelipe/One-Releases?style=for-the-badge&label=Versi%C3%B3n%20Actual&color=fb6a18)](https://github.com/velascofelipe/One-Releases/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-2563eb?style=for-the-badge&logo=windows)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.2-Setup.exe)
-[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-111827?style=for-the-badge&logo=apple)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Mac-1.2.2-Installer.dmg)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-2563eb?style=for-the-badge&logo=windows)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.3-Setup.exe)
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-111827?style=for-the-badge&logo=apple)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Mac-1.2.3-Installer.dmg)
 [![Auto-Updater](https://img.shields.io/badge/Auto--Update-Activo-10b981?style=for-the-badge)](https://github.com/velascofelipe/One-Releases/releases/latest)
 
 <br />
 
-### 💻 Descargas Oficiales Directas (`v1.2.2`)
+### 💻 Descargas Oficiales Directas (`v1.2.3`)
 
-🪟 **[Descargar Instalador para Windows (`.exe`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.2-Setup.exe)** &nbsp;|&nbsp; 🍎 **[Descargar Instalador para macOS (`.dmg`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Mac-1.2.2-Installer.dmg)** &nbsp;|&nbsp; 📦 **[Windows Portable (`.exe`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.2-Portable.exe)**
+🪟 **[Descargar Instalador para Windows (`.exe`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.3-Setup.exe)** &nbsp;|&nbsp; 🍎 **[Descargar Instalador para macOS (`.dmg`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Mac-1.2.3-Installer.dmg)** &nbsp;|&nbsp; 📦 **[Windows Portable (`.exe`)](https://github.com/velascofelipe/One-Releases/releases/latest/download/One-Windows-1.2.3-Portable.exe)**
 
 </div>
 
